@@ -1,0 +1,3 @@
+# Pre-launch: remove at launch.
+User-agent: *
+Disallow: /
